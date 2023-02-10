@@ -7,6 +7,6 @@ terraform {
     bucket = "demo-tf-10-02-23"
     key    = "terraform.tfstate"
     region = "ap-south-1"
-  }
+  } 
 }
 
